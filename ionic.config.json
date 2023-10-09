@@ -1,0 +1,7 @@
+{
+  "name": "kanban-fire",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
